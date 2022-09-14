@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+input {
+  display: block;
+  height: 40px;
+  width: 23rem;
+  margin-bottom: 3rem;
+  background-color: peachpuff;
+  border-radius: 7px;
+}
+button {
+  width: 8rem;
+  height: 39px;
+  border-radius: 4px;
+  border-style: hidden;
+  background-color: dodgerblue;
+  margin-left: 4rem;
+}

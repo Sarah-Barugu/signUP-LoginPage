@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://imageio.forbes.com/specials-images/imageserve/61d52d4e3a76ed81ac034ea8/The-10-Tech-Trends-That-Will-Transform-Our-World/960x0.jpg?format=jpg&width=960");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+input {
+  height: 40px;
+  display: block;
+  margin-right: 3rem;
+  margin-bottom: 2rem;
+  width: 25rem;
+  border-radius: 3px;
+}
+button {
+  height: 50px;
+  width: 9rem;
+  margin-left: 8rem;
+  border-radius: 3px;
+  background-color: rgb(44, 188, 44);
+  border-style: hidden;
+  color: beige;
+  font-size: 19px;
+}
